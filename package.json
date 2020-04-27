@@ -4,7 +4,7 @@
     "description": "Javascript essential extensions for visual studio code",
     "icon": "img/essentials.png",
     "galleryBanner": {
-        "color": "#007ACC",
+        "color": "#53595e",
         "theme": "dark"
     },
     "license": "LICENSE.md",
@@ -36,7 +36,7 @@
         "TeamElite",
         "Team Elite"
     ],
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Gydunhn",
     "author": {
         "name": "Javier Camus"
