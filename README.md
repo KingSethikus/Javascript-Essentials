@@ -5,8 +5,8 @@
 This extension pack for Visual Studio Code adds extensions that are useful for JavaScript projects. I reserve the right to update the extensions pack contents up to my own discretion.
 
 ## Reasons
-
-The [JavaScript Essentials extension pack] was made to automate and standardize the installation phase of the essential TypeScript extensions for Visual Studio Code every time a new member joins the team, or one of them restores a laptop, or exchanges it for a new one.
+    
+The [JavaScript Essentials extension pack] was made to automate and standardize the installation phase of the essential JavaScript extensions for Visual Studio Code every time a new member joins the team, or one of them restores a laptop, or exchanges it for a new one.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
