@@ -45,6 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack.
 
 [Unreleased]: https://github.com/Gydunhn/Javascript-Essentials/tree/develop
+[0.0.6]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.6
 [0.0.5]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.5
 [0.0.4]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.4
 [0.0.3]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.3
