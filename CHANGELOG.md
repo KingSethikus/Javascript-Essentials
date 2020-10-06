@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] - 2020-10-06
+
+### Changed
+
+* Compatibility with vsCode 1.35.0 x32
+
 ## [0.0.6] - 2020-08-28
 
 ### Changed
@@ -45,6 +51,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack.
 
 [Unreleased]: https://github.com/Gydunhn/Javascript-Essentials/tree/develop
+[0.0.7]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.7
 [0.0.6]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.6
 [0.0.5]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.5
 [0.0.4]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.4
