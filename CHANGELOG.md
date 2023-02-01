@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.8] - 2023-02-01
+
+### Removed
+
+* jsHint, This extension is deprecated. Use the ESLint extension instead. This repository has been archived by the owner on Jan 17, 2023. It is now read-only.
+
+### Changed
+
+* ReadMe Badges
+
 ## [0.0.7] - 2020-10-06
 
 ### Changed
@@ -51,6 +61,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack.
 
 [Unreleased]: https://github.com/Gydunhn/Javascript-Essentials/tree/develop
+[0.0.8]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.8
 [0.0.7]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.7
 [0.0.6]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.6
 [0.0.5]: https://github.com/Gydunhn/Javascript-Essentials/releases/tag/0.0.5
