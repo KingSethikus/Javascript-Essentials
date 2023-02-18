@@ -44,10 +44,9 @@ It is strongly recommended that these settings be used in your workspace. You mu
     "javascript.suggest.paths": false,
     "path-intellisense.showHiddenFiles": true,
     "formattingToggle.affects": [
-        "editor.formatOnPaste",
-        "editor.formatOnSave",
-        "editor.formatOnType"
-    ]
+		"editor.formatOnPaste",
+		"editor.formatOnType"
+	]
 }
 ```
 
