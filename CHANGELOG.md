@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+* Path Intellisense, By Christian Kohler.
+* Formatting Toggle, By tombonnike.
+* Setting.json configs files.
+
 ## [0.0.8] - 2023-02-01
 
 ### Removed

@@ -62,6 +62,8 @@
         "christian-kohler.npm-intellisense",
         "VisualStudioExptTeam.vscodeintellicode",
         "xabikos.JavaScriptSnippets",
-        "firefox-devtools.vscode-firefox-debug"
+        "firefox-devtools.vscode-firefox-debug",
+        "christian-kohler.path-intellisense",
+        "tombonnike.vscode-status-bar-format-toggle"
     ]
 }
